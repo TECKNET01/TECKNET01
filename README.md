@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, my name is Júnior! 👋
+## I am new here, even though I created this account in 2024. 😄
 
 <!--
 **TECKNET01/TECKNET01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
